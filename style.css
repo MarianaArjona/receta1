@@ -1,0 +1,26 @@
+body{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flock_of_sheep.jpg/320px-Flock_of_sheep.jpg);background-repeat: no-repeat;background-size: cover;}
+
+
+H1{color:#fffdf7}
+
+H3 a{
+	position: relative; display: inline-block; 
+  outline: none;
+	color: #ecedd5;
+	font-size: 50px;
+	vertical-align: bottom;
+	text-decoration: none;
+	white-space: nowrap;} /*esto es para el link*/
+ 
+  
+.introducion{color:#a88308;monospace: "Courier New", Times, serif;}
+
+.pepe {font-family: "Croissant One", serif; font-weight: 400;font-style: normal;}
+
+
+
+P{font-family:"monospace";}
+H1{font-family"Dancing Script",cursive;}
+
+.mama {font-family: "Croissant One", serif; font-weight: 400; font-style: normal;}
